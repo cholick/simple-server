@@ -1,0 +1,4 @@
+.idea
+
+/docker/tmp/*
+!docker/tmp/.gitkeep
